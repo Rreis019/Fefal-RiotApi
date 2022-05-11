@@ -1,0 +1,64 @@
+
+.matchArray{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.matchInfo{
+    display: flex;
+    padding: 0px 50px;
+    border-left: 5px solid rgba(38, 148, 11, 0.78);
+    border-radius: 3px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.matchInfo-border-red{
+    border-left: 5px solid rgba(255, 0, 0, 0.78);
+}
+
+.matchStats{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap:1px;
+}
+
+.matchItems
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap:3px;
+    grid-row-gap:5px;
+    padding: 3px;
+}
+
+.matchInfo #championImage
+{
+    width: 90px;
+}
+
+.matchItems {
+
+}
+
+.matchItems div{
+    background: #C4C4C4;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.matchItems img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}

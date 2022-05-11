@@ -1,0 +1,10 @@
+
+.inputHuge{
+    padding: 5px 0px;
+}
+
+.inputHuge:focus
+{
+    outline: none;
+    
+}

@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.p-5{padding: 5px;}
+.p-10{padding: 10px;}
+.p-20{padding: 20px;}
+.p-25{padding: 25px;}
+.p-30{padding: 30px;}
+.p-40{padding: 40px;}
+.p-50{padding: 50px;}
+.p-60{padding: 60px;}
+.p-70{padding: 70px;}
+.p-80{padding: 80px;}
+.p-90{padding: 90px;}
+.p-100{padding: 100px;}
+
+.flex{display: flex;}
+.flex-col{flex-direction: column;}
+.flex-items-center{align-items: center;}
+.flex-justify-center{justify-content: center;}
+
+
+.gap-5{gap: 5px;}
+.gap-10{gap: 10px;}
+.gap-20{gap: 20px;}
+.gap-25{gap: 25px;}
+.gap-30{gap: 30px;}
+.gap-40{gap: 40px;}
+.gap-50{gap: 50px;}
+.gap-60{gap: 60px;}
+.gap-70{gap: 70px;}
+.gap-80{gap: 80px;}
+.gap-90{gap: 90px;}
+.gap-100{gap: 100px;}
+.gap-130{gap: 130px;}
+
+.text-center{text-align: center;}
+.bold{font-weight: bold;}
+.font-100{font-weight: 100;}
+.font-200{font-weight: 200;}
+.font-300{font-weight: 300;}
+.font-400{font-weight: 400;}
+.font-500{font-weight: 500;}
+.font-600{font-weight: 600;}
+.font-700{font-weight: 700;}
+.font-800{font-weight: 800;}
+.font-900{font-weight: 900;}
+
+
+.color-green{color: #26940B;}
+.color-red{color: #D0021B;}
+.color-black{color:  #000000;}
+.color-white{color: #FFFFFF;}
+
+.background-green{background-color: #26940B;}
+.background-red{background-color: #D0021B;}
+.background-black{background-color:  #000000;}
+.background-white{background-color: #FFFFFF;}
+
+
+.h1{font-size: 32px;}
+.h2{font-size: 24px;}
+.h3{font-size: 18px;}
+.h4{font-size: 16px;}
+.fs-20{font-size: 20px;}
+
+.w-full{width: 100%;}
+.w-16{width: 16px;}
+.h-16{height: 16px;}
+.w-32{width: 32px;}
+.h-32{height: 32px;}
+
+
+
+.font-inter{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+
+
+.position-relative{position: relative;}
+
+.position-absolute-bottom-left{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.position-absolute-bottom-right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.position-absolute-top-left{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.position-absolute-top-right{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
